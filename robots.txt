@@ -1,4 +1,1 @@
-﻿User-agent: *
-Allow: /
-
-sitemap: https://17chiguaw.pages.dev/sitemap.xml
+Allow: /sitemap: https://17chiguaw.pages.dev/sitemap.xml
